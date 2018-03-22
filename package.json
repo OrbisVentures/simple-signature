@@ -1,0 +1,29 @@
+{
+    "name": "simple-signature",
+    "version": "0.9.0",
+    "description": "simple-signature",
+    "keywords": [
+      "javascript",
+      "es6",
+      "software",
+      "npm",
+      "signature"
+    ],
+    "main": "Signature.js",
+    "bin": {},
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/OrbisVentures/simple-signature.git"
+    },
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/OrbisVentures/simple-signature/issues"
+    },
+    "homepage": "https://github.com/OrbisVentures/simple-signature#readme",
+    "dependencies": {},
+    "devDependencies": {
+    }
+  }
+  
